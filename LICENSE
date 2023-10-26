@@ -1,0 +1,45 @@
+Strong Viral TudbuT License
+
+Copyright (c) 2023 Daniel H.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, and/or distribute copies of the 
+Software, and to permit persons to whom the Software is furnished to do so, 
+subject to the following conditions:
+
+1. The above copyright notice, this permission notice, and these conditions
+   shall be included in all copies or substantial portions of the Software.
+
+2. The Software must not be (re-)sold or sublicensed without explicit written
+   permission from the copyright holder.
+
+3. When a significant modification is made and an executable, binary, or 
+   similar source-code-derived artifact of this modified Software is 
+   created and published or run in such a way that multiple people can use it,
+   the modified source code of that Software must be published under the same
+   license as the original. Other software which builds upon this Software 
+   without modifying any existing part of it is included, so its source ALSO 
+   needs to be published under the same license as this Software.
+
+4. Any improvement in or addition of speed, functionality, ease-of-use, 
+   usability, or otherwise, is a significant modification.
+
+5. If this Software is a library, that is a collection of utilities that is 
+   NOT an application by itself, or is marketed as such, and an application, 
+   that is a piece of Software which the end-user directly interacts with in 
+   order to do some task, or one which is run in a stand-alone fashion in 
+   order to provide a service, is published or run in a way that multiple 
+   people can use it, which uses a binary or similar source-code-derived 
+   artifact of a significantly modified copy of this library, then that copy's
+   modified source code must be published under the same license as the 
+   original, along with the source code of the application which uses it.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
