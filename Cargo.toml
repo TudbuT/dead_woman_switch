@@ -1,5 +1,5 @@
 [package]
-name = "dead_woman_switch"
+name = "dws"
 version = "0.1.0"
 edition = "2021"
 authors = ["TudbuT", "JessSystemV"]
