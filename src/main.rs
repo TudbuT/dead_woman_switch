@@ -91,9 +91,9 @@ fn kill_all() -> io::Result<()> {
     unsafe {
         sync();
     }
-    thread::sleep(Duration::from_millis(50));
+    thread::sleep(Duration::from_millis(100));
     fs::write("/proc/sysrq-trigger", "u")?;
-    thread::sleep(Duration::from_millis(50));
+    thread::sleep(Duration::from_millis(200));
     fs::write("/proc/sysrq-trigger", "o")?;
 
     Ok(())
